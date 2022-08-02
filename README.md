@@ -1,11 +1,10 @@
 # SJPRR
-Shortest Job Prioritized Round Robin Algorithm
 Round Robin algorithm (RR) is the widely used scheduling algorithm in multitasking and real time environment and cloud environments.In RR, much time is lost in the form
 of switching time and hence an algorithm is proposed where a dynamic and optimal time quantum is allocated for each process in the ready queue based on its requirement. This paper describes 
 about the proposed algorithm,Shortest Job Prioritised Round Robin Algorithm(SJPRR) which is written using base idea of three CPU Scheduling Algorithms and is expected to result in
 lesser average TAT and average WT.
 
-PROBLEM STATEMENT
+PROBLEM STATEMENT :
 The algorithm devised intends to allocate dynamic and
 optimal time quantum for each process in the ready queue
 based on its requirement to save excess time lost as switching
